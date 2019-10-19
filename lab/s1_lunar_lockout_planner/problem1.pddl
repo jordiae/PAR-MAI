@@ -1,4 +1,4 @@
-(define (problem problem2) (:domain lunar_lockout)
+(define (problem problem1) (:domain lunar_lockout)
 (:objects 
     redCraft greenCraft purpleCraft yellowCraft orangeCraft - Craft
     zeroCoord oneCoord twoCoord threeCoord fourCoord - Coord
